@@ -1,5 +1,5 @@
 #Star Wars Repo
 
-![./download.png](Star Wars)
+![./download.jpg](Star Wars)
 
-Este repositório serve de exemplo para o cursto de GIT e GITHUB.
+Este repositório serve de exemplo para o curso de GIT e GITHUB.
